@@ -1,5 +1,5 @@
 # Emotion Recognition in Dialogue Agents with an Integrated Memory Module
-**Imperial Msc Computing Individual Project**
+Imperial Msc Computing Individual Project
 Recent advancements in AI and Natural Language Processing have underscored the need for emotionally intelligent dialogue agents. This repository houses the code and resources pertaining to our efforts to bridge the gap between AI capabilities and emotionally charged human interactions.
 
 ****Overview****
