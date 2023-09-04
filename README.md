@@ -4,8 +4,11 @@ Recent advancements in AI and Natural Language Processing have underscored the n
 
 ## Overview
 **Motivation:** The AI community acknowledges the significance of memory management, relational structures in dialogues, commonsense knowledge integration, emotion recognition, and multi-language capabilities. These insights aim to make dialogue agents more relatable and efficient.
+
 **Aim:** To integratively enhance AI conversational systems using a Memory Module with established large language models. Our work focuses on making these systems adept at classifying human emotions.
+
 **Tools & Datasets:** Leveraging tools like DialoGPT, OPT, and PyTorch, we've fine-tuned our models on the EmpatheticDialogues dataset to create a dialogue system that continually updates the conversational context based on emotion.
+
 **Features**
 Advanced Memory Module integration with DialoGPT and OPT.
 Fine-tuning capabilities using the EmpatheticDialogues dataset.
@@ -18,7 +21,8 @@ Enhanced emotion recognition from dialogues, improving the efficacy of AI-human 
 
 
 ## Results
-Our integrated models outperformed base versions in precision, recall, and F1 score metrics. The integration of Memory Modules in large language models highlights significant improvements in sentiment recognition. This methodology offers expansive applications in NLP, emphasizing its role in advancing sentiment recognition and related tasks.
+The present analysis demonstrates the comparative effectiveness of the DialoGPT and OPT with Memory Module in relation to the base model. This comparison highlights the potential benefits of these models in addressing the issue of overfitting and enhancing the consistency and reliability of the training and validation procedures. This study demonstrates the advantages of incorporating a Memory Module to improve the robustness and predictability of model performance in practical scenarios.
+Moreover, the analysis places particular emphasis on the better results of the DialoGPT and OPT with Memory Module in comparison to the base model. This benefit is observed consistently across all evaluation criteria, encompassing precision, recall, and F1 score. Hence, the incorporation of Memory Modules within extensive language models showcases notable advancements in sentiment recognition. This methodology has a wide range of applications in the field of Natural Language Processing (NLP), with a particular emphasis on its contribution to the advancement of sentiment recognition and related tasks.
 
 ## How to Run
 
