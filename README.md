@@ -12,7 +12,10 @@ Fine-tuning capabilities using the EmpatheticDialogues dataset.
 Custom model training options including learning rate optimization, selective layer freezing, and batch size adjustments.
 Enhanced emotion recognition from dialogues, improving the efficacy of AI-human interactions.
 
-<img src="https://github.com/Jingyi-Wu-Richael/individualproject/blob/main/images/flow.png"  style="zoom:25%;" />
+<p align="center">
+  <img src="https://github.com/Jingyi-Wu-Richael/individualproject/blob/main/images/flow.png" style="zoom:25%;" />
+</p>
+
 
 ## Results
 Our integrated models outperformed base versions in precision, recall, and F1 score metrics. The integration of Memory Modules in large language models highlights significant improvements in sentiment recognition. This methodology offers expansive applications in NLP, emphasizing its role in advancing sentiment recognition and related tasks.
