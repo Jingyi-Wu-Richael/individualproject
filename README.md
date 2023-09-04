@@ -19,10 +19,6 @@ Enhanced emotion recognition from dialogues, improving the efficacy of AI-human 
 </p>
 
 
-## Results
-The present analysis demonstrates the comparative effectiveness of the DialoGPT and OPT with Memory Module in relation to the base model. This comparison highlights the potential benefits of these models in addressing the issue of overfitting and enhancing the consistency and reliability of the training and validation procedures. This study demonstrates the advantages of incorporating a Memory Module to improve the robustness and predictability of model performance in practical scenarios.
-Moreover, the analysis places particular emphasis on the better results of the DialoGPT and OPT with Memory Module in comparison to the base model. This benefit is observed consistently across all evaluation criteria, encompassing precision, recall, and F1 score. Hence, the incorporation of Memory Modules within extensive language models showcases notable advancements in sentiment recognition. This methodology has a wide range of applications in the field of Natural Language Processing (NLP), with a particular emphasis on its contribution to the advancement of sentiment recognition and related tasks.
-
 ## How to Run
 
 1. Install the required packages. 
@@ -31,6 +27,10 @@ Moreover, the analysis places particular emphasis on the better results of the D
    ```
 2. Ensure you have the emotion-emotion_69k.csv dataset in your working directory.
 3. Run the Python script.
+
+## Results
+The present analysis demonstrates the comparative effectiveness of the DialoGPT and OPT with Memory Module in relation to the base model. This comparison highlights the potential benefits of these models in addressing the issue of overfitting and enhancing the consistency and reliability of the training and validation procedures. This study demonstrates the advantages of incorporating a Memory Module to improve the robustness and predictability of model performance in practical scenarios.
+Moreover, the analysis places particular emphasis on the better results of the DialoGPT and OPT with Memory Module in comparison to the base model. This benefit is observed consistently across all evaluation criteria, encompassing precision, recall, and F1 score. Hence, the incorporation of Memory Modules within extensive language models showcases notable advancements in sentiment recognition. This methodology has a wide range of applications in the field of Natural Language Processing (NLP), with a particular emphasis on its contribution to the advancement of sentiment recognition and related tasks.
 
 ## Acknowledgements
 I am deeply grateful to:
