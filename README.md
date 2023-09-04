@@ -19,8 +19,10 @@ Our integrated models outperformed base versions in precision, recall, and F1 sc
 
 ## How to Run
 
-1. Install the required packages.
-   ```pip install -r requirements.txt```
+1. Install the required packages. 
+   ```
+   pip install -r requirements.txt    
+   ```
 2. Ensure you have the emotion-emotion_69k.csv dataset in your working directory.
 3. Run the Python script.
 
@@ -33,5 +35,7 @@ I am deeply grateful to:
 
 ## Reference
 [1] Zhang Y, Sun S, Galley M, Chen YC, Brockett C, Gao X, et al. DIALOGPT: Large-scale generative pre-training for conversational response generation. In: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations; 2020. p. 270-8.
+
 [2] Zhang S, Roller S, Goyal N, Artetxe M, Chen M, Chen S, et al. Opt: Open pre-trained transformer language models. arXiv preprint arXiv:220501068. 2022.
+
 [3] Rashkin H, Smith EM, Li M, Boureau YL. Towards empathetic open-domain conversation models: A new benchmark and dataset. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics; 2018. p. 5370-81.
