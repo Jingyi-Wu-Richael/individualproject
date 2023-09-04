@@ -46,3 +46,5 @@ I am deeply grateful to:
 [2] Zhang S, Roller S, Goyal N, Artetxe M, Chen M, Chen S, et al. Opt: Open pre-trained transformer language models. arXiv preprint arXiv:220501068. 2022.
 
 [3] Rashkin H, Smith EM, Li M, Boureau YL. Towards empathetic open-domain conversation models: A new benchmark and dataset. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics; 2018. p. 5370-81.
+
+[4] Bae S, Kwak D, Kang S, Lee MY, Kim S, Jeong Y, et al. Keep me updated! Memory management in long-term conversations. In: Findings of the Association for Computational Linguistics: EMNLP 2022; 2022. p. 3769-87.
