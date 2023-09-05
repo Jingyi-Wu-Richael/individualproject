@@ -35,8 +35,11 @@ Moreover, the analysis places particular emphasis on the better results of the D
 ## Acknowledgements
 I am deeply grateful to:
 **Dr. Anandha Gopalan**, my esteemed advisor, for his unwavering support, mentoring, and invaluable intellectual insights which played a pivotal role in guiding this research.
+
 **Teaching Assistant, Ruoyu Hu**, for his vital assistance, particularly in addressing technical challenges.
+
 **Dr. Josiah Wang**, for his constructive feedback and enthusiasm that inspired a deeper exploration of the subject.
+
 **The team at Facebook AI Research (FAIR)**, especially those involved in the EmpatheticDialogues dataset. Their dedication to open research and commitment to collaboration have enriched this project immeasurably.
 
 ## Reference
