@@ -190,9 +190,9 @@ auto_memory_module = AutoMemoryModule(embedding_layer, max_sentence_length, max_
                                       padding_token=0, device=device)
 # Initialize the DialoGPTWithMemory model
 model = DialoGPTWithMemory(base_model, auto_memory_module).to(device)
-unfreeze_layers = [f'layers.{i}.' for i in range(0, 8)]
+freeze_layers = [f'layers.{i}.' for i in range(0, 8)]
 for name, param in model.named_parameters():
-    for t in unfreeze_layers:
+    for t in freeze_layers:
         if t in name:
             param.requires_grad = False
 for name, param in model.named_parameters():
